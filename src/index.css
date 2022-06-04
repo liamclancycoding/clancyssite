@@ -1,0 +1,32 @@
+:root
+{
+  text-align: left;
+}
+label
+{
+  font-size:larger;
+  font: bold;
+  font-family: 'Times New Roman';
+}
+h1 {
+  margin: 0;
+  font-family: 'Times New Roman';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+button
+{
+  color: aqua;
+  background-color: black;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
